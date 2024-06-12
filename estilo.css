@@ -1,0 +1,11 @@
+:root{          
+
+--cor-de-fundo:#fffffff
+--cor-da-fonte: #fff0
+--cor-fonte-titulos:
+--cor-de-fundo-cabecalho: var(--cor-de-fundo)
+}
+body{
+    background-color: var(--cor-de-fundo);
+
+}
