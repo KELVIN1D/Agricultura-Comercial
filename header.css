@@ -1,25 +1,5 @@
-.lista-menu{
-display:none ;
-position: absolute;
-top:100% ;
-top:60vw ;
-
-}
-.container_botao:checked~.lista-menu{
-
-display: block;
-}
 .cabecalho{
-    background-color: aliceblue;
-display:flex ;
-justify-content:space-between ;
-align-items: center;
-position: relative;
-}
-.lista-menu_titulo{
-color: black;
-}
-.lista-menu_item{
-    background:black
-}    -webkit-gradient-clip:text:
+background-image: url("download.jpeg");
 
+
+}
