@@ -25,7 +25,7 @@ h1{
 background-color:white;
 
 }
-.cabeçalho_menu-hamburguer{
+.cabecalho_menu-hamburguer{
 width: 24px; ;
 height: 24px;
 display:inline-block ;
@@ -39,7 +39,7 @@ background-position:center
 --branco:#FFFFF
 
 }
-.cabeçalho{
+.cabecalho{
 
     background-color:var(--branco)
 display:flex;
@@ -65,7 +65,7 @@ align-items: center;
 
 
 
-.conainer_imagem{
+.container_imagem{
 
 padding: lem;
 
