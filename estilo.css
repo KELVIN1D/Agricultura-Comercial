@@ -1,8 +1,8 @@
 :root{          
 
---cor-de-fundo:rgb(255, 0, 0);
+--cor-de-fundo:rgb(255, 255, 255);
 --cor-da-fonte: rgb(255, 255, 255);
---cor-fonte-titulos:#000000;
+--cor-fonte-titulos:#ffffff;
 --cor-de-fundo-cabecalho: var(--cor-de-fundo);
 --
 
