@@ -12,12 +12,8 @@
 
 } 
 body{
-
-    background: -webkit-linear-gradient(left, #ffffff, #000000);
-    background: -moz-linear-gradient(left, #ffffff, #000000);
-    background: -ms-linear-gradient(left, #ffffff, #000000);
-    background: -o-linear-gradient(left, #ffffff, #000000);
-    background: linear-gradient(to right, #ffffff, #000000);
+    background: rgb(2,0,36);
+    background: linear-gradient(180deg, rgba(2,0,36,1) 18%, rgba(0,255,4,1) 84%);
     
     }
 h1{
