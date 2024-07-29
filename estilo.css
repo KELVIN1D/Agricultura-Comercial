@@ -14,7 +14,7 @@
 body{
     background: rgb(0,0,0);
     background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(0,255,4,1) 84%);
-    
+    height: 100vh ;
     }
 h1{
 background-color:rgb(0, 0, 0);
